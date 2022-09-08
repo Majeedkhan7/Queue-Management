@@ -1,0 +1,29 @@
+.content{
+    position: absolute;
+    left: 50%;
+    top: 40%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+
+}
+.currentno{
+    font-size: 120px;
+    color: red;
+}
+.upcomming{
+    position:absolute;
+    left: 50%;
+    top: 65%;
+    transform: translate(-50%, -50%);
+    align-items: center;
+}
+.cancelbtn{
+    position:absolute;
+    top:80%;
+    left:90%;
+}
+.next{
+    position: absolute;
+    top: 35%;
+    left: 35%;
+}

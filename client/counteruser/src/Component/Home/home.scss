@@ -1,0 +1,55 @@
+.closeCounterbtn{
+    position: relative;
+    left: 67%;
+    top: 15%;
+}
+.btnCall{
+    position: relative;
+    margin-left: auto;
+}
+
+.Parginate{
+    display: flex;
+    position: absolute;
+    top:80%;
+    left: 45%;  
+}
+
+.paginationBttns {
+    width: 60%;
+    height: 40px;
+    list-style: none;
+    display: flex;
+    justify-content: center;
+  }
+
+  .paginationBttns a {
+    padding: 6px;
+    margin: 4px;
+    border-radius: 4px;
+    border: 1px solid #2b2eff;
+    color: #2b2eff;
+    cursor: pointer;
+    text-decoration:none;  
+    font-size: 14px;
+  }
+  
+  .paginationBttns a:hover {
+    color: white;
+    background-color: #2b2eff;
+  }
+  
+  .paginationActive a {
+    color: white;
+    background-color: #2b2eff;
+  }
+  .token{
+    align-items: center;
+    position: relative;
+    left: 5px;
+  }
+
+ 
+ 
+  
+ 

@@ -1,0 +1,11 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+/server/node_modules
+/server/.env
+/client/normaluser/node_modules
+/client/normaluser/.env
+/client/normaluser/package-lock.json
+/client/counteruser/node_modules
+/client/counteruser/.env
+/client/counteruser/package-lock.json
